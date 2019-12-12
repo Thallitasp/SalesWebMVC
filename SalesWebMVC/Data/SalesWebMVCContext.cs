@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SalesWebMvc.Models;
 
 namespace SalesWebMVC.Models
 {

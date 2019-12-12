@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using SalesWebMvc.Models;
 using SalesWebMVC.Models;
 using SalesWebMVC.Models.Enums;
 
-namespace SalesWebMvc.Data
+namespace SalesWebMVC.Data
 {
     public class SeedingService
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
-namespace SalesWebMvc.Models
+namespace SalesWebMVC.Models
 {
     public class Seller
     {

@@ -2,7 +2,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace SalesWebMvc.Models
+namespace SalesWebMVC.Models
 {
     public class SalesRecord
     {
